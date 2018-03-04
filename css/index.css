@@ -1,0 +1,33 @@
+body {
+    font-family: 'Karma', serif;
+}
+
+.contenedor {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    width: 80%;
+}
+
+#contenedorTitulos {
+    font-size: 30px;
+    letter-spacing: -0.75px;
+    color: #838383;
+}
+
+#contenedorTitulos h2 {
+    font-size: 25px;
+}
+
+#contenedorData {
+    font-size: 60px;
+}
+
+#contenedorData span {
+    font-size: 40px;
+}
+
+#contenedorBtn #seleccionarAlumno {
+    height: 40px;
+    width: 40%;
+}
